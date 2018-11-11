@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js_active vc_desktop vc_transform vc_transform " lang="en-US" style="height: auto;" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="https://www.brightmachines.com/xmlrpc.php" rel="pingback"/>
+  <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport"/>
+  <title>
+   CONTACT US – Bright Machines
+  </title>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="https://www.brightmachines.com/feed/" rel="alternate" title="Bright Machines » Feed" type="application/rss+xml"/>
+  <link href="https://www.brightmachines.com/comments/feed/" rel="alternate" title="Bright Machines » Comments Feed" type="application/rss+xml"/>
+  <div class="fit-vids-style" id="fit-vids-style" style="display: none;">
+   ­
+   <style>
+    .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                      					 min-height: 1px;                         }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }
+   </style>
+  </div>
+  <script async="" src="https://static.addtoany.com/menu/page.js">
+  </script>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.brightmachines.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&amp;&amp;(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&amp;&amp;k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i&lt;j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&amp;&amp;c.supports[j[i]],"flag"!==j[i]&amp;&amp;(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&amp;&amp;c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&amp;&amp;!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&amp;&amp;c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&amp;&amp;g.twemoji&amp;&amp;(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <script defer="" src="https://www.brightmachines.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="https://www.brightmachines.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.7.6" id="layerslider-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/style.css?ver=4.9.8" id="qode_pitch_default_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/stylesheet.min.css?ver=4.9.8" id="qode_pitch_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/style_dynamic.css?ver=1541186256" id="qode_pitch_style_dynamic-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/font-awesome/css/font-awesome.min.css?ver=4.9.8" id="qode_pitch_font_awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/elegant-icons/style.min.css?ver=4.9.8" id="qode_pitch_font_elegant-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/ion-icons/css/ionicons.min.css?ver=4.9.8" id="qode_pitch_ion_icons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/linea-icons/style.css?ver=4.9.8" id="qode_pitch_linea_icons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/simple-line-icons/simple-line-icons.css?ver=4.9.8" id="qode_pitch_simple_line_icons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/dripicons/dripicons.css?ver=4.9.8" id="qode_pitch_dripicons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/responsive.min.css?ver=4.9.8" id="qode_pitch_responsive-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/style_dynamic_responsive.css?ver=1541186256" id="qode_pitch_style_dynamic_responsive-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5.2" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/custom_css.css?ver=1541186256" id="qode_pitch_custom_css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/webkit_stylesheet.css?ver=4.9.8" id="qode_pitch_webkit-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin%2Clatin-ext&amp;ver=1.0.0" id="qode_pitch_google_fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/themes/pitchwp-child/style.css?ver=4.9.8" id="childstyle-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.brightmachines.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" id="addtoany-css" media="all" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var LS_Meta = {"v":"6.7.6"};
+/* ]]&gt; */
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.6" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.7.6" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" type="text/javascript">
+  </script>
+  <meta content="Powered by LayerSlider 6.7.6 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." name="generator"/>
+  <!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+  <link href="https://www.brightmachines.com/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://www.brightmachines.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://www.brightmachines.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="https://www.brightmachines.com/contact-us-2/" rel="canonical"/>
+  <link href="https://www.brightmachines.com/?p=75432" rel="shortlink"/>
+  <link href="https://www.brightmachines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.brightmachines.com%2Fcontact-us-2%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="https://www.brightmachines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.brightmachines.com%2Fcontact-us-2%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <script data-cfasync="false">
+   window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+  </script>
+  <!--[if IE 9]><link rel="stylesheet" type="text/css" href="https://www.brightmachines.com/wp-content/themes/pitchwp/css/ie9_stylesheet.css" media="screen"><![endif]-->
+  <meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
+  <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.brightmachines.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+  <link href="https://www.brightmachines.com/wp-content/uploads/2018/11/favicon.png" rel="icon" sizes="32x32"/>
+  <link href="https://www.brightmachines.com/wp-content/uploads/2018/11/favicon.png" rel="icon" sizes="192x192"/>
+  <link href="https://www.brightmachines.com/wp-content/uploads/2018/11/favicon.png" rel="apple-touch-icon-precomposed"/>
+  <meta content="https://www.brightmachines.com/wp-content/uploads/2018/11/favicon.png" name="msapplication-TileImage"/>
+  <style id="wp-custom-css" type="text/css">
+   body .content.content_top_margin {
+	margin-top: 0px !important;
+}
+
+.page-id-51177 .custom_font_holder a {
+	color: rgb(166, 206, 57);
+}
+
+.page-id-51177 .custom_font_holder a:hover {
+	color: white;
+}
+.page-template-blog-standard-php .container_inner.default_template_holder {
+    width: 100%;
+}
+.page-template-blog-standard-php .blog_holder.blog_standard_type {
+    max-width: 1100px;
+    margin: 40px auto;
+    width: 80%;
+}
+.page-template-blog-standard-php .blog_holder.blog_standard_type .post_image, .single-post .blog_navigation {
+    display: none;
+}
+.page-template-blog-standard.page-id-77161 .parallax_section_holder .vc_column-inner .wpb_wrapper h1 {
+    max-width: 1100px;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+::selection {
+    background: #f5245f !important;
+    color: white;
+}
+.single-post .title_outer.title_without_animation {
+    height: auto !important;
+    display: block !important;
+    clear: both;
+    max-width: 1300px;
+		width:90%;
+    margin: 5% auto 0px;
+}
+.single-post .comment_holder .comments .comment {
+    border: none;
+}
+.comment_number h2 {
+    color: #2e2e2e;
+}
+.single-post .title_outer .post_image {
+    max-height: 700px;
+    overflow: hidden;
+}
+.qbutton, .qbutton.medium, #submit_comment, .load_more a, .blog_load_more_button a, .post-password-form input[type='submit'], .qbutton.fill_from_left, .qbutton.fill_from_top, .qbutton.fill_from_bottom {
+    border-color: rgb(166, 206, 57);
+    border-width: 2px;
+    background-color: rgb(166, 206, 57);
+}
+#respond textarea, #respond input[type='text'], .post-password-form input[type='password'] {
+	background:white;
+}
+.wpb_text_column h4.Normal2 {
+    text-transform: none;
+}
+#menu-main-nav #nav-menu-item-75438 a::after {
+	display:none;
+}
+.post_content_holder .post_text .post_text_inner h2, .blog_holder .single_tags.clearfix, .page-id-51177 .full_width .full_width_inner&gt;.container, .post_text_inner .post_info.post_info_top, .social_share_list_standard_post_holder, .blog_holder article .post_info, .blog_holder .blog_vertical_loop_clapper .post_info {
+    display: none;
+}
+.post_content_holder .post_text .post_text_inner .blog-post-title-brightspot {
+	display:block;
+}
+.q_team_image {
+    margin: 0 -1px -1px 0;
+}
+#bg-cover {
+    background-size: cover;
+		min-height:100vh;
+}
+.comment-form a {
+    color: black !important;
+}
+#post-77216 .post_image {
+    max-height: 400px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+}
+.title_outer .post_image img {
+    max-width: 100%;
+    display: block;
+}
+aside.sidebar .widget {
+    background-color: transparent;
+}
+.sidebar li {
+    border-bottom: none !important;
+}
+.sidebar ul li a:hover {
+    color: #002f5f !important;
+}
+.title.title_size_large.position_left.standard_title {
+    height: auto !important;
+}
+.title_holder {
+    height: auto !important;
+    margin-top: 40px;
+    display: block !important;
+}
+.title.title_size_large h1 {
+		font-family: Montserrat, sans-serif;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: capitalize;
+	color:#606060;
+}
+.single-post .content_inner&gt;h1 {
+	  display: block;
+    clear: both;
+    margin: 100px auto 50px;
+    color: #002f5f;
+		width:90%;
+    max-width: 1300px;
+}
+@media (max-width:800px) {
+	.page-id-708 .vc_row.wpb_row.section.grid_section, .page-id-77124 .vc_row.wpb_row.section.grid_section, .page-id-77119 .vc_row.wpb_row.section.grid_section, .page-id-77122 .vc_row.wpb_row.section.grid_section, .page-id-77120 .vc_row.wpb_row.section.grid_section, .page-id-77125 .vc_row.wpb_row.section.grid_section, .page-id-77253 .vc_row.wpb_row.section.grid_section {
+		background-position: right center !important;
+	}
+	.vc_column_container&gt;.vc_column-inner {
+		padding: 0;
+	}
+	.parallax_content.left.parallax_section_inner {
+		padding: 0 5%;
+		width: auto;
+	}
+	body .vc_custom_1539713714050 {
+		padding: 0 5% !important;
+		padding-bottom: 5% !important;
+	}
+	.wpb_wrapper .separator.transparent:first-of-type, .wpb_wrapper .separator.transparent:last-of-type {
+		margin: 25px 0 !important;
+	}
+	.custom_font_holder p {
+		font-size: 0.7em !important;
+		line-height: 1.8 !important;
+	}
+	.custom_font_holder {
+		padding-right: 0 !important;
+	}
+	.parallax_content.center.parallax_section_inner {
+		width: 90%;
+	}
+	.touch section.parallax_section_holder {
+		min-height:75vh !important;
+	}
+	section#leadership {
+		height: auto !important;
+		min-height: 300px !important;
+	}
+	
+	div#bio-top p {
+		color: black !important;
+		text-shadow: none;
+		font-weight: bold !important;
+		font-size: .9em !important;
+	}
+	div#bio-top {
+		padding-top: 0 !important;
+		padding-bottom: 340px !important;
+	}
+	h4.Normal2 {
+    font-size: 1em;
+}
+	.parallax_content_outer {
+    padding: 0 5% !important;
+}
+}
+@media (max-width:767px) {
+	.single-post .post_content_holder .post_image {
+		display: none;
+	}
+	.content .content_inner&gt;.container&gt;.container_inner.default_template_holder {
+		padding-top: 0 !important;
+		margin-top: 20px;
+	}
+}
+@media (max-width:650px) {
+	.single-post .content_inner&gt;h1 {
+			display: block;
+			clear: both;
+			line-height:1;
+			margin: 1em auto 50px;
+			color: #002f5f;
+			width: 90%;
+			font-size: 40px;
+			max-width: 1300px;
+	}
+}
+  </style>
+  <style data-type="vc_shortcodes-custom-css" type="text/css">
+   .vc_custom_1539704236717{padding-bottom: 200px !important;}.vc_custom_1539833230087{padding-top: 15px !important;}.vc_custom_1539798110798{padding-top: 15px !important;}
+  </style>
+  <noscript>
+   &lt;style type="text/css"&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;
+  </noscript>
+ </head>
+ <body class="page-template page-template-full_width page-template-full_width-php page page-id-75432 qode-core-1.3 pitch child-child-ver-1.0.0 pitch-ver-2.3 vertical_menu_with_scroll smooth_scroll grid_1300 wpb-js-composer js-comp-ver-5.5.2 vc_responsive" style="height: auto;">
+  <div class="ajax_loader">
+   <div class="ajax_loader_1">
+    <div class="double_pulse">
+     <div class="double-bounce1">
+     </div>
+     <div class="double-bounce2">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="wrapper">
+   <div class="wrapper_inner">
+    <header class="page_header scrolled_not_transparent header_style_on_scroll fixed">
+     <div class="header_inner clearfix">
+      <div class="header_top_bottom_holder">
+       <div class="header_bottom header_full_width clearfix " style="background-color:rgba(255, 255, 255, 1);border-bottom: 1px solid #ffffff;">
+        <div class="header_inner_left">
+         <div class="mobile_menu_button">
+          <span>
+           <i class="qode_icon_font_awesome fa fa-bars ">
+           </i>
+          </span>
+         </div>
+         <div class="logo_wrapper" style="height: 100px; transition: height 0.2s ease 0s;">
+          <div class="q_logo">
+           <a href="https://www.brightmachines.com/" style="height: 54px; transition: height 0.2s ease 0s; visibility: visible;">
+            <img alt="Logo" class="normal" src="https://www.brightmachines.com/wp-content/uploads/2018/10/bright-machines-logo-color-desktop-nav-1.png"/>
+            <img alt="Logo" class="light" src="https://www.brightmachines.com/wp-content/uploads/2018/10/bright-machines-logo-color-desktop-nav-1.png"/>
+            <img alt="Logo" class="dark" src="https://www.brightmachines.com/wp-content/uploads/2018/10/bright-machines-logo-color-desktop-nav-1.png"/>
+            <img alt="Logo" class="sticky" src="https://www.brightmachines.com/wp-content/uploads/2018/10/bright-machines-logo-color-desktop-nav-1.png"/>
+            <img alt="Logo" class="mobile" src="https://www.brightmachines.com/wp-content/uploads/2018/10/bright-machines-logo-color-desktop-nav-1.png"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="header_inner_right">
+         <div class="side_menu_button_wrapper right">
+          <div class="side_menu_button" style="height: 100px; transition: height 0.2s ease 0s;">
+          </div>
+         </div>
+        </div>
+        <nav class="main_menu drop_down right">
+         <ul class="" id="menu-main-nav">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-75434">
+           <a class="" href="https://www.brightmachines.com/who-we-are/" style="line-height: 100px; transition: line-height 0.2s ease 0s;">
+            <span class="item_inner">
+             <span class="menu_icon_wrapper">
+              <i class="menu_icon null fa">
+              </i>
+             </span>
+             <span class="item_text">
+              WHO WE ARE
+             </span>
+            </span>
+            <span class="plus">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-75435">
+           <a class="" href="https://www.brightmachines.com/what-we-do/" style="line-height: 100px; transition: line-height 0.2s ease 0s;">
+            <span class="item_inner">
+             <span class="menu_icon_wrapper">
+              <i class="menu_icon null fa">
+              </i>
+             </span>
+             <span class="item_text">
+              WHAT WE DO
+             </span>
+            </span>
+            <span class="plus">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-77172">
+           <a class="" href="https://www.brightmachines.com/our-pov/" style="line-height: 100px; transition: line-height 0.2s ease 0s;">
+            <span class="item_inner">
+             <span class="menu_icon_wrapper">
+              <i class="menu_icon blank fa">
+              </i>
+             </span>
+             <span class="item_text">
+              Our POV
+             </span>
+            </span>
+            <span class="plus">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-77076">
+           <a class="" href="https://www.brightmachines.com/join-our-team/" style="line-height: 100px; transition: line-height 0.2s ease 0s;">
+            <span class="item_inner">
+             <span class="menu_icon_wrapper">
+              <i class="menu_icon null fa">
+              </i>
+             </span>
+             <span class="item_text">
+              JOIN OUR TEAM
+             </span>
+            </span>
+            <span class="plus">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-75432 current_page_item active narrow" id="nav-menu-item-75438">
+           <a class=" current " href="https://www.brightmachines.com/contact-us-2/" style="line-height: 100px; transition: line-height 0.2s ease 0s;">
+            <span class="item_inner">
+             <span class="menu_icon_wrapper">
+              <i class="menu_icon null fa">
+              </i>
+             </span>
+             <span class="item_text">
+              CONTACT US
+             </span>
+            </span>
+            <span class="plus">
+            </span>
+           </a>
+          </li>
+         </ul>
+        </nav>
+        <nav class="mobile_menu">
+         <ul class="" id="menu-main-nav-1">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page level0" id="mobile-menu-item-75434">
+           <a class="" href="https://www.brightmachines.com/who-we-are/">
+            <span>
+             WHO WE ARE
+            </span>
+           </a>
+           <span class="mobile_arrow">
+            <i class="fa fa-angle-right">
+            </i>
+            <i class="fa fa-angle-down">
+            </i>
+           </span>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page level0" id="mobile-menu-item-75435">
+           <a class="" href="https://www.brightmachines.com/what-we-do/">
+            <span>
+             WHAT WE DO
+            </span>
+           </a>
+           <span class="mobile_arrow">
+            <i class="fa fa-angle-right">
+            </i>
+            <i class="fa fa-angle-down">
+            </i>
+           </span>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page level0" id="mobile-menu-item-77172">
+           <a class="" href="https://www.brightmachines.com/our-pov/">
+            <span>
+             Our POV
+            </span>
+           </a>
+           <span class="mobile_arrow">
+            <i class="fa fa-angle-right">
+            </i>
+            <i class="fa fa-angle-down">
+            </i>
+           </span>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page level0" id="mobile-menu-item-77076">
+           <a class="" href="https://www.brightmachines.com/join-our-team/">
+            <span>
+             JOIN OUR TEAM
+            </span>
+           </a>
+           <span class="mobile_arrow">
+            <i class="fa fa-angle-right">
+            </i>
+            <i class="fa fa-angle-down">
+            </i>
+           </span>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-75432 current_page_item active level0" id="mobile-menu-item-75438">
+           <a class=" current " href="https://www.brightmachines.com/contact-us-2/">
+            <span>
+             CONTACT US
+            </span>
+           </a>
+           <span class="mobile_arrow">
+            <i class="fa fa-angle-right">
+            </i>
+            <i class="fa fa-angle-down">
+            </i>
+           </span>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </header>
+    <div class="content content_top_margin" style="min-height: 516px;">
+     <div class="content_inner ">
+      <script>
+       page_scroll_amount_for_sticky = undefined
+      </script>
+      <div class="full_width">
+       <div class="full_width_inner">
+        <section class="parallax_section_holder parallax_grid_section full_screen_height_parallax vertical_middle_align" data-speed="1" style='background-image: url("https://www.brightmachines.com/wp-content/uploads/2018/10/1920x1200-bright-machines-contactus-parallax-image4.jpg"); height: 850px; background-position: 50% 0px;'>
+         <div class="parallax_content_outer" style="padding: 0px;">
+          <div class="parallax_content left parallax_section_inner">
+           <div class="parallax_section_inner_margin clearfix">
+            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-10 vc_col-md-11">
+             <div class="vc_column-inner vc_custom_1539704236717">
+              <div class="wpb_wrapper">
+               <div class="separator transparent " style="margin-top:0px;margin-bottom:180px">
+               </div>
+               <div class="q_elements_holder one_column responsive_mode_from_768">
+                <div class="q_elements_item vertical_alignment_middle horizontal_align_left y_translate y_translate_on" data-animation="no">
+                 <div class="q_elements_item_inner">
+                  <div class="q_elements_item_content q_elements_inner_1394163641" style="text-align:left;padding:5px 0px 0px 0px;">
+                   <div class="custom_font_holder" data-font-size="85" data-line-height="95" style="font-family: Montserrat; font-size: 68px; line-height: 1em; font-style: normal; font-weight: 700; color: rgb(255, 255, 255); text-decoration: none; letter-spacing: -2px; text-transform: capitalize; text-align: left;">
+                    <div>
+                     <h1>
+                      Contact Us
+                     </h1>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="separator transparent " style="margin-top:0px;margin-bottom:31px">
+               </div>
+               <div class="q_elements_holder one_column responsive_mode_from_768">
+                <div class="q_elements_item vertical_alignment_middle horizontal_align_left y_translate y_translate_on" data-animation="no" style="transition-delay:200ms;-webkit-transition-delay:200ms;">
+                 <div class="q_elements_item_inner">
+                  <div class="q_elements_item_content q_elements_inner_605808291" style="text-align:left;padding:5px 0px 0px 0px;">
+                   <div class="wpb_text_column wpb_content_element ">
+                    <div class="wpb_wrapper">
+                     <h2>
+                      Want to learn more? Our sales team is ready to
+                      <a href="mailto:sales@brightmachines.com">
+                       <span style="color: #ff3f28;">
+                        talk.
+                       </span>
+                      </a>
+                     </h2>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="q_elements_holder one_column responsive_mode_from_768">
+                <div class="q_elements_item vertical_alignment_middle horizontal_align_left y_translate y_translate_on" data-animation="no" style="transition-delay:200ms;-webkit-transition-delay:200ms;">
+                 <div class="q_elements_item_inner">
+                  <div class="q_elements_item_content q_elements_inner_446806864" style="text-align:left;padding:5px 0px 0px 0px;">
+                   <div class="wpb_text_column wpb_content_element vc_custom_1539833230087">
+                    <div class="wpb_wrapper">
+                     <h2>
+                      Want to join the Bright Machines team?
+                      <a href="mailto:careers@brightmachines.com">
+                       <span style="color: #ff3f28;">
+                        Email
+                       </span>
+                      </a>
+                      your resume and cover letter to us.
+                     </h2>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="q_elements_holder one_column responsive_mode_from_768">
+                <div class="q_elements_item vertical_alignment_middle horizontal_align_left y_translate y_translate_on" data-animation="no" style="transition-delay:200ms;-webkit-transition-delay:200ms;">
+                 <div class="q_elements_item_inner">
+                  <div class="q_elements_item_content q_elements_inner_140861251" style="text-align:left;">
+                   <div class="wpb_text_column wpb_content_element vc_custom_1539798110798">
+                    <div class="wpb_wrapper">
+                     <h2>
+                      Want the inside scoop?
+                      <a href="mailto:pr@brightmachines.com">
+                       <span style="color: #ff3f28;">
+                        Contact
+                       </span>
+                      </a>
+                      our PR team.
+                     </h2>
+                    </div>
+                   </div>
+                   <div class="wpb_text_column wpb_content_element ">
+                    <div class="wpb_wrapper">
+                     <h2>
+                     </h2>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="vc_row wpb_row vc_inner section" style=" padding-top:100px; text-align:left;">
+                <div class=" full_section_inner clearfix">
+                 <div class="wpb_column vc_column_container vc_col-sm-12">
+                  <div class="vc_column-inner ">
+                   <div class="wpb_wrapper">
+                    <div class="wpb_text_column wpb_content_element ">
+                     <div class="wpb_wrapper">
+                      <h2>
+                       Locations
+                      </h2>
+                     </div>
+                    </div>
+                    <div class="separator normal " style="border-color: #ffffff">
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="vc_row wpb_row vc_inner section" style=" text-align:left;">
+                <div class=" full_section_inner clearfix">
+                 <div class="wpb_column vc_column_container vc_col-sm-6">
+                  <div class="vc_column-inner ">
+                   <div class="wpb_wrapper">
+                    <div class="wpb_text_column wpb_content_element ">
+                     <div class="wpb_wrapper">
+                      <h2>
+                       585 Howard St.
+                       <br/>
+                       San Francisco, California 94105
+                       <br/>
+                       USA
+                      </h2>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="wpb_column vc_column_container vc_col-sm-6">
+                  <div class="vc_column-inner ">
+                   <div class="wpb_wrapper">
+                    <div class="wpb_text_column wpb_content_element ">
+                     <div class="wpb_wrapper">
+                      <h2>
+                       France Building
+                       <br/>
+                       Europark
+                       <br/>
+                       Kibbutz Yakum
+                       <br/>
+                       Israel
+                      </h2>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </section>
+       </div>
+      </div>
+     </div>
+     <!-- close div.content_inner -->
+    </div>
+    <!-- close div.content -->
+    <footer>
+     <div class="footer_inner clearfix">
+      <div class="footer_top_border_holder " style="height: 1px;background-color: #000000;">
+      </div>
+      <div class="footer_top_holder">
+       <div class="footer_top">
+        <div class="container">
+         <div class="container_inner">
+          <div class="clearfix">
+           <div class="qode_column column1" style="min-height: 70px;">
+            <div class="column_inner">
+             <div class="widget widget_lsi_widget" id="lsi_widget-4">
+              <ul class="lsi-social-icons icon-set-lsi_widget-4" style="text-align: center">
+               <li class="lsi-social-facebook">
+                <a aria-label="Facebook" class="" href="https://www.facebook.com/Bright-Machines-581600938923093/" rel="nofollow" target="_blank" title="Facebook">
+                 <i class="lsicon lsicon-facebook">
+                 </i>
+                </a>
+               </li>
+               <li class="lsi-social-instagram">
+                <a aria-label="Instagram" class="" href="https://www.instagram.com/bright_machines/?hl=en" rel="nofollow" target="_blank" title="Instagram">
+                 <i class="lsicon lsicon-instagram">
+                 </i>
+                </a>
+               </li>
+               <li class="lsi-social-linkedin">
+                <a aria-label="LinkedIn" class="" href="https://www.linkedin.com/company/bright-machines/" rel="nofollow" target="_blank" title="LinkedIn">
+                 <i class="lsicon lsicon-linkedin">
+                 </i>
+                </a>
+               </li>
+               <li class="lsi-social-twitter">
+                <a aria-label="Twitter" class="" href="https://twitter.com/bright_machines" rel="nofollow" target="_blank" title="Twitter">
+                 <i class="lsicon lsicon-twitter">
+                 </i>
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer_bottom_border_holder " style="height: 1px;background-color: #000000;">
+      </div>
+      <div class="footer_bottom_holder">
+       <div class="footer_bottom_holder_inner">
+        <div class="container">
+         <div class="container_inner">
+          <div class="column_inner">
+           <div class="textwidget">
+            <p>
+             © 2018 Bright Machines, Inc. All rights reserved.
+             <br/>
+             BRIGHT MACHINES and the LOGO are trademarks of Bright Machines, Inc. in the U.S. and throughout the world.   |
+             <a href="https://brtmchn.wpengine.com/privacy-policy/" rel="noopener" target="_blank">
+              Privacy Policy
+             </a>
+             |
+             <a href="https://brtmchn.wpengine.com/terms-of-use/" rel="noopener" target="_blank">
+              Terms of Use
+             </a>
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer_bottom_border_bottom_holder " style="height: 1px;background-color: #000000;">
+      </div>
+     </div>
+    </footer>
+   </div>
+   <!-- close div.wrapper_inner  -->
+  </div>
+  <!-- close div.wrapper -->
+  <link href="https://www.brightmachines.com/wp-content/plugins/lightweight-social-icons/css/style-min.css?ver=1.0.1" id="lsi-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="lsi-style-inline-css" type="text/css">
+   .icon-set-lsi_widget-4 a,
+			.icon-set-lsi_widget-4 a:visited,
+			.icon-set-lsi_widget-4 a:focus {
+				border-radius: 4px;
+				background: #000000 !important;
+				color: #FFFFFF !important;
+				font-size: 20px !important;
+			}
+
+			.icon-set-lsi_widget-4 a:hover {
+				background: #000000 !important;
+				color: #ff3f28 !important;
+			}
+  </style>
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/www.brightmachines.com\/wp-admin\/admin-ajax.php"};
+/* ]]&gt; */
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/qode-like.js?ver=1.0" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/plugins.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/jquery.carouFredSel-6.2.1.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/jquery.fullPage.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/lemmon-slider.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/owl.carousel.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/jquery.mousewheel.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/jquery.touchSwipe.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.5.2" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/default_dynamic.php?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/default.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/custom_js.php?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/TweenLite.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/ScrollToPlugin.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/themes/pitchwp/js/smoothPageScroll.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-includes/js/comment-reply.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.2" type="text/javascript">
+  </script>
+  <script src="https://www.brightmachines.com/wp-includes/js/wp-embed.min.js?ver=4.9.8" type="text/javascript">
+  </script>
+  <script>
+   jQuery( "&lt;h1&gt;The Bright Spot&lt;/h1&gt;" ).insertBefore( ".single-post .title_outer" );
+	jQuery( ".single-post .post_image" ).insertBefore( jQuery( ".single-post .title" ) );
+  </script>
+ </body>
+</html>
