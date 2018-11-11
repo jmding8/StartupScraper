@@ -2,8 +2,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import re
 
-def scrapeSite(domain, maxDepth):
-    #navigates to all pages within depth of url
+def scrapeDomain(domain, maxDepth):
+    #navigates to all pages within maxDepth of domain, staying within the domain
     #returns a list of all unique addresses found while navigating
 
     toVisit = set()
@@ -17,7 +17,7 @@ def scrapeSite(domain, maxDepth):
     while len(toVisit) > 0:
         #visit the page
         page = toVisit.pop()
-        print("visiting", page)
+        print("visiting", page + ",", len(toVisit), "remaining")
 
         depth = depths[page]
         pageSource = getSoup(page)
@@ -31,12 +31,15 @@ def scrapeSite(domain, maxDepth):
 
         #add the links to the queue to visit
         if depth < maxDepth:
-            links = getLinks(pageSource, domain)
+            links = getLinks(pageSource)
             for link in links:
-                if link not in visited and link not in toVisit:
-                    toVisit.add(link)
-                    depths[link] = depth + 1
-                    print("adding", link, "to queue at depth", depth + 1)
+                try:
+                    if link not in visited and link not in toVisit and inDomain(link, domain):
+                        toVisit.add(link)
+                        depths[link] = depth + 1
+                        print("adding", link, "to queue at depth", depth + 1)
+                except:
+                    print("adding link", link, "failed")
 
     return list(addresses)
 
@@ -48,53 +51,29 @@ def getSoup(url):
     driver.close()
     return BeautifulSoup(html, 'html.parser')
 
-def getLinks(soup, domain):
+def getLinks(soup):
     #returns a list of links found in a soup that begin with domain
     ret = []
     for link in soup.find_all('a'):
-        linkStr = link.get('href')
-        if linkStr[0:len(domain)] == domain:
-            ret.append(linkStr)
+        ret.append(link.get('href'))
     return ret
+
+def inDomain(url, domain):
+    #print("inDomain:", url, domain)
+    return url[0:len(domain)] == domain
 
 def getAddresses(soup):
     #takes as input a soup that represents the source of a page
     #returns a list of possible addresses
 
-    #soup.prettify()
-    #soup =
     ptrn = '([0-9]+ [a-zA-Z0-9].{,100} [0-9]{5})[^0-9]'
-    #re.findall(ptrn, soup)
-
-    text_file = open("output.txt", "w", encoding="utf-8")
-    text_file.write(soup.prettify())
-    text_file.close()
-
     return re.findall(ptrn, str(soup.prettify), re.DOTALL)
 
 
 
 
-
-#url = 'https://www.crunchbase.com/hub/san-francisco-seed-stage-companies/top/org_top_rank_delta_d30_list#section-leaderboard'
-#url = 'https://www.crunchbase.com'
 #url = 'https://www.crunchbase.com/hub/united-states-companies-founded-in-the-last-year'
-
-#driver = webdriver.Chrome()
-#driver.get(url)
-#html = driver.page_source
-#driver.close()
-
-#soup = BeautifulSoup(html)
-#outputString = soup.prettify()
-
-#addresses = scrapeSite('https://www.brightmachines.com/', 3)
-
-addresses = getAddresses(getSoup('https://www.brightmachines.com/contact-us-2/'))
+url = input('starting domain?')
+addresses = scrapeDomain(url, 3)
 for address in addresses:
     print(address)
-
-
-#text_file = open("output.txt", "w", encoding="utf-8")
-#text_file.write(outputString)
-#text_file.close()
