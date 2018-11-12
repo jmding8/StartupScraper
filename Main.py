@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import re
 
-#random comment
-
 def scrapeDomain(domain, maxDepth):
     #navigates to all pages within maxDepth of domain, staying within the domain
     #returns a list of all unique addresses found while navigating
